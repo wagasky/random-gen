@@ -1,0 +1,11 @@
+{
+  "name": "@wagasky/random-gen",
+  "version": "1.0.0",
+  "description": "Random Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Wagasky",
+  "license": "ISC"
+}
